@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5oqxUjX/RDFl7tqG62SZxtTUdNl+yGVZJ6MNRtmrS/gknP0zNEJA4YxE31YQs0EkPnHL91vTNY59DRMbDLxyHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\EducationTestProjects\\WebCommercial\\WebCommercial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
