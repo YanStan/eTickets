@@ -1,0 +1,17 @@
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+
+namespace WebCommercial.Models
+{
+    public class Cinema
+    {
+        public int CinemaId { get; set; }
+        public string CinemaLogo { get; set; }
+        public string Name { get; set; }
+
+        public string Description { get; set; }
+
+        //Relationships
+        public List<Movie> Movies { get; set; }
+    }
+}
