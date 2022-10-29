@@ -16,7 +16,7 @@ namespace WebCommercial.Controllers
         public async Task<IActionResult> Index()
         {
             var allmovies = await _context.Movies.ToListAsync();
-            return View();
+            return View(allmovies);
         }
     }
 }

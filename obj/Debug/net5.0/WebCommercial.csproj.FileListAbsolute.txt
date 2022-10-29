@@ -97,3 +97,4 @@ C:\Users\User\source\repos\EducationTestProjects\WebCommercial\bin\Debug\net5.0\
 C:\Users\User\source\repos\EducationTestProjects\WebCommercial\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
 C:\Users\User\source\repos\EducationTestProjects\WebCommercial\bin\Debug\net5.0\Owin.dll
 C:\Users\User\source\repos\EducationTestProjects\WebCommercial\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+C:\Users\User\source\repos\EducationTestProjects\WebCommercial\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
