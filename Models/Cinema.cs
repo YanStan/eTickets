@@ -6,9 +6,12 @@ namespace WebCommercial.Models
     public class Cinema
     {
         public int CinemaId { get; set; }
-        public string CinemaLogo { get; set; }
-        public string Name { get; set; }
 
+        [Display(Name = "Cinema Logo")]
+        public string CinemaLogo { get; set; }
+        [Display(Name = "Cinema Name")]
+        public string Name { get; set; }
+        [Display(Name = "Cinema Description")]
         public string Description { get; set; }
 
         //Relationships
